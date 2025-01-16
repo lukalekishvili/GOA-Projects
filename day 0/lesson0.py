@@ -154,7 +154,7 @@ left(180)
 forward(55)
 left(90)
 forward(45)
-#end of drawing GOA
+#end of drawing  GOA
 
 
 
