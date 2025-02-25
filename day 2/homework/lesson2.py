@@ -1,20 +1,16 @@
-num1 = input("number1: ")
-num2 = input("number2: ")
-num3 = input("number3: ")
-num4 = input("number4: ")
-
-print(int(num1) + int(num2) + int(num3) + int(num4) // int(4))
+#1
+name = "luka"
+age = 16
 
 
+str1 = "gamarjoba "
 
-name = input("name: ")
-surname = input("surname: ")
+str2 = "elementi" * 10
 
-print("gamarjoba " + name + " " + surname)
+num1 = 16
+num2 = 15
 
+integer = num1 + num2
+string3 = "hello" +" " + "world"
 
-
-num5 = input("number5: ")
-num6 = input("number6: ")
-
-print(num5 + "😊" + num6)
+boolean = (10 * 5) == (50)
