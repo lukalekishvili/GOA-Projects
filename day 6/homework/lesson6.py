@@ -37,7 +37,7 @@ while password != "Goa123":
 #         print("agar gaq cdebi")
 #         break
 #     else:
-#         print("you have skibidi password")
+#         print("password is valid")
 
 #4
 sityva = input("chaweret raime sityva: ")
