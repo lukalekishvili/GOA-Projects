@@ -1,4 +1,4 @@
-#1
+1
 num = int(input("enter a number: "))
 for i in range(1,num + 1):
     if num % i == 0:
@@ -11,8 +11,7 @@ for i in range(1,num + 1):
 # name = input("enter your name: ")
 # while name == "":
 #     print("you did not enter name")
-# else:
-#   print("hello {name}")
+# print(f"hello {name}")
 
 #ან
 
@@ -20,8 +19,7 @@ for i in range(1,num + 1):
 # while name == "":
 #     print("you did not enter name")
 #     name = input("enter your name: ")
-# else:
-#     print("hello {name}")
+# print(f"hello {name}")
 
 #ამ შემთხვევაში "you did not enter your name" და "enter your name: "  Terminal-ში ამოიპრინტება უსასრულოდ
 
@@ -33,4 +31,3 @@ for i in range(1,num + 1):
 #(1 and 0) or (1 and 1) and (0 or 0) ეს გამოსახულება გამოიტანს False-ს რადგან
 #ჯერ სრულდება and შემდეგ or ამიტომ პირველი შესრულდება (1 and 1) and (0 or 0) და შემდეგ მიღებული პასუხი შეედრება (1 and 0) ამას
 #და მივიღებთ False-ს
-
