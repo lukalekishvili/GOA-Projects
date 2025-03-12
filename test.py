@@ -1,11 +1,9 @@
-number = int(input("cifri: "))
-def print_two_times(number):
-    if number%2==0:
-        return "Even"
-    return "Odd"
-print(number)
+# def print_two_times():
+#     return"bye"
+#     print("hello")
     
 
+# print(print_two_times())
 
 # num = print("hello")
 # print(num)
@@ -17,6 +15,6 @@ print(number)
 # def greet( name1, name2 ):
 #     return "hello " + name1 + " and " + name2
 
-# print(greet("deme", "ana"))\
+# print(greet("deme", "ana"))
 
 
