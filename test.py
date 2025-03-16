@@ -18,3 +18,21 @@
 # print(greet("deme", "ana"))
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+name = "luka"
+def say_hello(name):
+    return "Hello, " + name
+
+print(say_hello("luka"))
+
