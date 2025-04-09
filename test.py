@@ -30,3 +30,56 @@
 #     return res
 # 
 # print(CW1([1,23,165,2,3,92,10,34,911],3))
+
+
+
+
+# listt = [1, 2, 3, 4, 5]
+
+# listt.clear()
+# print(listt)
+
+# listt = [1, 2, 3, 4, 5]
+
+# listtt = listt.copy()
+# print(listtt)
+
+
+# listt = [1, 2, 3, 4, 5]
+
+# print(listt.count(2))
+
+# listt = [1, 2, 3, 4, 5]
+
+# print(listt.index(2))
+
+
+# listt = [1, 2, 3, 4, 5,]
+
+# listt.remove(1)
+
+# print(listt)
+
+# listt = [5,4,3,2,1]
+# listt.sort()
+# print(listt)
+
+# listt = [1, 2, 3, 4, 5]
+
+# listt.reverse()
+
+# print(listt)
+
+
+# listt = [1, 2, 3, 4, 5]
+# def manual_len(L):
+#     res = 0
+#     if type(L) == list:
+#         for i in L:
+#             res += 1
+#     elif type(L) == str or type(L) == int:
+#         for i in str(L):
+#             res += 1
+        
+#     return res
+
