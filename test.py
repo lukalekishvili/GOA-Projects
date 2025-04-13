@@ -83,3 +83,32 @@
         
 #     return res
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+list1 = [1, 7, 3, 23]
+list2 = [4, 7, 9, 5]
+
+list3 = []
+for item in list1:
+    list3.append(item)
+for item in list2:
+    list3.append(item)
