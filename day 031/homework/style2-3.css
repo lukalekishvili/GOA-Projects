@@ -1,0 +1,11 @@
+#click{
+    text-decoration: none;
+    color: orange;
+}
+#click:hover{
+    color: blue;
+}
+#click:active{
+    color: red;
+}
+

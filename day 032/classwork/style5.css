@@ -1,0 +1,31 @@
+.list1{
+    list-style-type: lower-latin;
+}
+#li1{
+    background-color: rgb(255, 0, 0);
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+.list2{
+    list-style-type: upper-latin;
+}
+#li2{
+    font-size: 30px;
+    font-family: cursive;
+}
+.list3{
+    list-style-type: lower-roman;
+}
+#li3{
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+    font-size: 100px;
+}
+.list4{
+    list-style-type:upper-roman;
+}
+#li4{
+    background-color: green;
+}

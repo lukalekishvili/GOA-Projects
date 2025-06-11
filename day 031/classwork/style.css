@@ -1,0 +1,15 @@
+.main{
+    background-color: rgb(255, 0, 0);
+    width: 200px;
+    height: 200px;
+}
+#txt1{
+    font-size: 36px;
+}
+
+#txt2{
+    font-size: 20px;
+}
+#txt3{
+    font-size: 14px;
+}

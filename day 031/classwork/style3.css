@@ -1,0 +1,8 @@
+.list1{
+    list-style-type: upper-latin;
+    list-style-position: inside;
+}
+.list2{
+    list-style-position: outside;
+    list-style-type: lower-roman;
+}
