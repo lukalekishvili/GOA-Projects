@@ -48,7 +48,6 @@ end_fill()
 #end of drawing a door
 
 #drawing windows
-
 penup()
 goto(250,250)
 pendown()

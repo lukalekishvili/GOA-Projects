@@ -104,3 +104,11 @@
 
 
 
+
+
+lst=[0,0,0,0,0,0,1,0,1]
+sum=0
+for i in lst:
+    if i == 1:
+        sum+=i
+print(sum)

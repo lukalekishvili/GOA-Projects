@@ -1,7 +1,9 @@
-def join_strings(strings):
-    result = ""
-    index = 0
-    while index < len(strings):
-        result += strings[index]
-        index += 1
-    return result
+name = ['l','u','k','a']
+index = 0
+res = ''
+while index < len(name):
+    res += name[index]
+    index += 1
+print(res)
+
+

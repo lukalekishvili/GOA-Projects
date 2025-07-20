@@ -1,0 +1,8 @@
+#luka{
+    position: relative;
+    left: 100px;
+}
+#goa{
+    position: static;
+    left: 100px;  /*<- ეს არ იმუშავებს რადგან პოზიცია Static-ია*/ 
+}
