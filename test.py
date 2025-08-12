@@ -114,6 +114,25 @@
 # print(sum)
 
 
-sett=('word', 'hello','bye')
-sett= hash('hello')
-print(sett)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
