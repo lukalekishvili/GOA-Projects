@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px solid black;
+    margin: 40px;
+    background-color: lightblue;
+}
+/*padding ქმნის დაშორებას დივის შიდა ელემენტებსა 
+და დივის ბორდერს შორის  
+
+margin  ქმნის დაშორებას გარე ელემენტებს შორის
+მაგალითად დივებს შორის
+ */

@@ -1,0 +1,15 @@
+.main{
+    width: 400px;
+    height: 300px;
+    background-color: lightgrey ;
+    padding: 20px;
+}
+.inside{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    padding: 20px;
+}
+/*padding ელემენტს ზრდის მითითებული ზომით მთავარი
+დივის საზღვრებს შიგნით 
+ */
