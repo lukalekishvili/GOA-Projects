@@ -1,0 +1,33 @@
+/* 
+cssbattle
+
+link:https://cssbattle.dev/play/PzMePcB4kuRd0ZzD83TC
+
+code:
+<p></p>
+<style>
+body {
+    background: #D62E65;
+}
+
+p {
+    margin: 60 132 -150;
+    height: 130;
+    border-radius: 70px;
+    border: 30px solid #eee;
+    clip-path: var(--g, polygon(0 0, 100% 0,
+        100% 90%,
+        50% 50px,
+        0 50px));
+}
+
+p + p {
+    height: 20;
+    --g:
+}
+</style>
+
+
+
+
+*/

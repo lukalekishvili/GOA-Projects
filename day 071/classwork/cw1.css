@@ -1,0 +1,43 @@
+/* 
+cssbattle
+
+link:https://cssbattle.dev/play/Erlsgg51Llyj70O5OS1a
+
+
+code:
+<div class=right></div>
+<div class="left"></div>
+<div class=" left down"></div>
+<style>
+  body{
+    background: #1A4341;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.right {
+    width: 100px;
+    height: 105px;
+    border: 30px solid #5A9F48;
+    border-top: none;
+    border-left: none;
+    margin: 72px;
+}
+
+.left {
+    width: 100px;
+    height: 50px;
+    border: 30px solid #5A9F48;
+    border-top: none;
+    border-radius: 0 0 100px 100px;
+    position: absolute;
+    margin: 207px 0 0 -230px;
+}
+.down{
+  rotate: 180deg;
+  margin: -3px 0 0 230px ;
+}
+
+
+*/
