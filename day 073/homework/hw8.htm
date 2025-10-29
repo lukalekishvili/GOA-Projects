@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .text {
+            opacity: 0;
+            transform: translateX(-100px);
+            animation: slideIn 2s ease-out forwards;
+            color: blue;
+            font-size: 100px;
+        }
+
+        @keyframes slideIn {
+            from {
+            opacity: 0;
+            transform: translateX(-100px);
+            }
+            to {
+            opacity: 1;
+            transform: translateX(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <p class="text">Hello WOOOOOOOOOORLLD</p>
+</body>
+</html>
