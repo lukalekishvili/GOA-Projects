@@ -1,0 +1,26 @@
+/* 
+cssbattle
+
+link:https://cssbattle.dev/play/4QYPrdduN1r6DhCGVuuX
+
+
+code:
+<div>
+<style>
+*{
+  background:#6F9893;
+  +*{
+    background:#394257;
+    margin:100 150;
+    rotate:45deg
+  }
+}
+  div{
+    position:fixed;
+    padding:125;
+    background:linear-gradient(to top right,#D9D9D9 40%,transparent 0 60%,#D9D9D9 0);
+    margin:-75
+  }
+</style>
+
+*/

@@ -1,0 +1,93 @@
+/* 
+cssbattle
+
+link:https://cssbattle.dev/play/oYsAGOqde8BHhH0tJA1E
+
+code:
+<div class="container">
+  <div class="box1"></div>
+  <div class="box2"></div>
+  <div class="box3"></div>
+  <div class="box4"></div>
+  <div class="box5"></div>
+  <div class="box6"></div>
+  <div class="box7"></div>
+</div>
+<style>
+  body{
+    background-color:#243D83;
+    display:absolute;
+  }
+  .container {
+    background-color:#F0CD48;
+    width:320px;
+    height:200px;
+    margin-left:30px;
+    margin-top:50px;
+    overflow:hidden;
+    }
+  .box1{
+    position:absolute;
+    width:85px;
+    height:120px;
+    background-color:#243D83;
+    left:100px;
+    top:90px;
+  }
+  .box1{
+    position:absolute;
+    width:85px;
+    height:120px;
+    background-color:#243D83;
+    left:100px;
+    top:90px;
+  }
+  .box2{
+    position:absolute;
+    width:85px;
+    height:120px;
+    background-color:#243D83;
+    left:215px;
+    top:90px;
+  }
+  .box3{
+    position:absolute;
+    width:80px;
+    height:120px;
+    background-color:#243D83;
+    left:-8px;
+    top:90px;
+  }
+  .box4{
+    position:absolute;
+    width:85px;
+    height:120px;
+    background-color:#243D83;
+    left:330px;
+    top:90px;
+  }
+  .box5{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:#F0CD48;
+    left:65px;
+    top:130px;
+  }
+  .box6{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:#F0CD48;
+    left:180px;
+    top:130px;
+  }.box7{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:#F0CD48;
+    left:295px;
+    top:130px;
+  }
+
+*/
