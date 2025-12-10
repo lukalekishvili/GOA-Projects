@@ -1,0 +1,106 @@
+body{
+    background-color:#fa7977;
+    background-image:url("./bg-intro-desktop.png");
+    display: flex;
+}
+#text1{
+    position: absolute;
+    color: #fff;
+    font-family:sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 300px;
+    margin-left:200px;
+    width: 600px;
+}
+#text2{
+    position: absolute;
+    color: #fff;
+    font-family:sans-serif;
+    font-weight: 700;
+    margin-top: 480px;
+    margin-left:200px;
+    width:500px;
+}
+.div1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+    gap:15px;
+    position: absolute;
+    background-color: #ffffff;
+    width: 600px;
+    height: 400px;
+    color: white;
+    margin:300px 500px 100px 880px;
+    border-radius: 15px;
+    box-shadow:0px 10px#c05e5d ;
+    
+}
+.inp1{
+    border-radius: 5px;
+    width: 500px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    border: none;
+}
+.inp2{
+    border-radius: 5px;
+    width: 500px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    border: none;
+}
+.inp3{
+    border-radius: 5px;
+    width: 500px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    border: none;
+}
+.inp4{
+    border-radius: 5px;
+    width: 500px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    border: none;
+}
+#btn1{
+    color:white;
+    border-radius: 5px;
+    width: 510px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    background-color: #47cc89;
+    border: none;
+    cursor: pointer;
+    border: 2px solid #318a5e;
+}
+#text3{
+    color: red;
+    position: absolute;
+    left: 370px;
+    top: 370px;
+    font-weight: 10;
+}
+.div2{
+    position: absolute;
+    background-color: #5f53a5;
+    width: 600px;
+    height: 25px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 230px;
+    margin-left: 880px;
+    box-shadow:0px 10px#c05e5d ;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 700px;
+    padding-top: 25px;
+}
